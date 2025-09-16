@@ -1,0 +1,4 @@
+1001,Sebastian,33,Master
+1002,Kalle,33,Borgmästare
+1003,Sandra,11,Chef
+1004,Svante,55,GOD
