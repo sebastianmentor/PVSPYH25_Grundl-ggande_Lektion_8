@@ -1,9 +1,10 @@
 # Här öppnar vi filen med "permision" att skriva till filen!
 # <as f> gör ett alias av våran koppling till filen!! Tänk variabelnamn
-with open("my_file.txt", "w", encoding='utf-8') as f:
+with open("my_file.txt", "w", encoding="utf-8") as f:
     # Här använder vi f som en variabel och anropar funtionen write
     # med strängen som argument
-    f.write('Den här texten kommer att skrivas till filen!\n')
+    # f.write('Den här texten kommer att skrivas till filen!\n')
+    pass
 
 # # Här gör vi som ovan fast enda skillnaden är att vi encodar 
 # # våran text på ett speciellt sätt , utf-8, för att möjliggöra att
